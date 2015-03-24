@@ -1,0 +1,1 @@
+i dont have own hosting so im hosting few js files here
